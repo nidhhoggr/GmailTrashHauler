@@ -16,7 +16,7 @@ Configure blocked addressed appropriatley and the scope.
 
 ### Configure the labels
 
-Scan you labels and configure accordingly. 
+Scan your labels and configure accordingly. 
 
 ```
 node index -l

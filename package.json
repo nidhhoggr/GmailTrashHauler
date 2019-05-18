@@ -1,7 +1,7 @@
 {
   "name": "GmailTrashHauler",
   "version": "1.0.0",
-  "description": "Hauls trash from you inbox by configurable email addresses.",
+  "description": "Hauls trash from your inbox by configurable email addresses.",
   "main": "index.js",
   "author": "Nidhhoggr <persie.joseph@gmail.com>",
   "license": "MIT",
