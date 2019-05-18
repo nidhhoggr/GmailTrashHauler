@@ -1,0 +1,12 @@
+{
+  "gmailApi": {
+    "scopes": ["https://mail.google.com/"]
+  },
+  "blockedAddresses": [
+    "annoying@pestering.org",
+    "hostile@harraser.com"
+  ],
+  "scannableLabels": [
+    "TRASH"
+  ]
+}
